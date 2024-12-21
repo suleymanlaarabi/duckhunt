@@ -1,0 +1,686 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/window.o",
+      "src/window.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/window.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/window.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/game_loop.o",
+      "src/game_loop.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/game_loop.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/game_loop.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/assets/load_duck_asset.o",
+      "src/assets/load_duck_asset.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/assets/load_duck_asset.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/assets/load_duck_asset.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/assets/asset_server.o",
+      "src/assets/asset_server.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/assets/asset_server.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/assets/asset_server.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/assets/load_angel_asset.o",
+      "src/assets/load_angel_asset.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/assets/load_angel_asset.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/assets/load_angel_asset.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/entities/duck.o",
+      "src/entities/duck.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/entities/duck.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/entities/duck.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/entities/duck_management.o",
+      "src/entities/duck_management.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/entities/duck_management.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/entities/duck_management.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/entities/ui/button.o",
+      "src/entities/ui/button.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/entities/ui/button.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/entities/ui/button.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/entities/ui/exit_button.o",
+      "src/entities/ui/exit_button.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/entities/ui/exit_button.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/entities/ui/exit_button.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/entities/ui/mute_button.o",
+      "src/entities/ui/mute_button.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/entities/ui/mute_button.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/entities/ui/mute_button.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/entities/ui/view_button.o",
+      "src/entities/ui/view_button.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/entities/ui/view_button.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/entities/ui/view_button.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/entities/ui/item_card.o",
+      "src/entities/ui/item_card.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/entities/ui/item_card.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/entities/ui/item_card.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/entities/ui/feather_render.o",
+      "src/entities/ui/feather_render.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/entities/ui/feather_render.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/entities/ui/feather_render.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/entities/ui/score_display.o",
+      "src/entities/ui/score_display.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/entities/ui/score_display.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/entities/ui/score_display.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/entity.o",
+      "src/entity.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/entity.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/entity.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/animation.o",
+      "src/animation.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/animation.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/animation.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/utils/vector/vector_math.o",
+      "src/utils/vector/vector_math.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/utils/vector/vector_math.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/utils/vector/vector_math.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/utils/sprite/sprite_utils.o",
+      "src/utils/sprite/sprite_utils.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/utils/sprite/sprite_utils.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/utils/sprite/sprite_utils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/utils/sprite/sprite_constructor.o",
+      "src/utils/sprite/sprite_constructor.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/utils/sprite/sprite_constructor.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/utils/sprite/sprite_constructor.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/utils/sprite/move.o",
+      "src/utils/sprite/move.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/utils/sprite/move.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/utils/sprite/move.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/utils/math/math_utils.o",
+      "src/utils/math/math_utils.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/utils/math/math_utils.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/utils/math/math_utils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/utils/input/input.o",
+      "src/utils/input/input.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/utils/input/input.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/utils/input/input.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/utils/text.o",
+      "src/utils/text.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/utils/text.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/utils/text.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/utils/entity/entity_utils.o",
+      "src/utils/entity/entity_utils.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/utils/entity/entity_utils.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/utils/entity/entity_utils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/scene.o",
+      "src/scene.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/scene.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/scene.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/engine.o",
+      "src/engine.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/engine.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/engine.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/scenes/start_ui.o",
+      "src/scenes/start_ui.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/scenes/start_ui.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/scenes/start_ui.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/scenes/settings_scene.o",
+      "src/scenes/settings_scene.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/scenes/settings_scene.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/scenes/settings_scene.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/scenes/shop_scene.o",
+      "src/scenes/shop_scene.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/scenes/shop_scene.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/scenes/shop_scene.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/scenes/default_scene/default_scene.o",
+      "src/scenes/default_scene/default_scene.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/scenes/default_scene/default_scene.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/scenes/default_scene/default_scene.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/scenes/default_scene/life.o",
+      "src/scenes/default_scene/life.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/scenes/default_scene/life.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/scenes/default_scene/life.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/scenes/leader_board.o",
+      "src/scenes/leader_board.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/scenes/leader_board.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/scenes/leader_board.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/services/settings_service.o",
+      "src/services/settings_service.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/services/settings_service.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/services/settings_service.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/services/file_service.o",
+      "src/services/file_service.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/services/file_service.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/services/file_service.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/src/services/inventory_service.o",
+      "src/services/inventory_service.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/src/services/inventory_service.c",
+    "output": "/home/suleyman/epitech/duckunt/build/src/services/inventory_service.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wextra",
+      "-Wall",
+      "-Iinclude",
+      "-Iinclude/entities",
+      "-Iinclude/scenes",
+      "-Iinclude/services",
+      "-Ilib/my/include",
+      "-c",
+      "-o",
+      "build/main.o",
+      "main.c"
+    ],
+    "directory": "/home/suleyman/epitech/duckunt",
+    "file": "/home/suleyman/epitech/duckunt/main.c",
+    "output": "/home/suleyman/epitech/duckunt/build/main.o"
+  }
+]
